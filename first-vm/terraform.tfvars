@@ -1,5 +1,5 @@
 location = "westus2"
-prefix = "tf"
+prefix = "mytf1"
 admin_username = "plankton"
 admin_password = "Password1234!"
 cidrs = [ "10.0.0.0/16", "10.1.0.0/16" ]
